@@ -1,6 +1,6 @@
 {
 "companyName": "MrMarLCompany",
-"productName": "2D?",
+"productName": "2Din3D",
 "productVersion": "1.0",
 "dataUrl": "bild0.1.data.unityweb",
 "wasmCodeUrl": "bild0.1.wasm.code.unityweb",
@@ -8,7 +8,7 @@
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
+"backgroundColor": "#000000",
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.4f1"
